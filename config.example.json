@@ -1,0 +1,14 @@
+{
+  "phone": "你的手机号",
+  "password": "你的密码",
+  "schoolcode": "你学校的 customerid，抓包看 App 请求里的 customerId 参数",
+  "room": {
+    "roomverify": "用 rooms 命令查出来填这里，形如 101-07--112-308",
+    "label": "示例3号楼616"
+  },
+  "payPro": {
+    "electric": { "name": "用电支出", "businesstype": 2 }
+  },
+  "threshold_low": 10,
+  "pushplus_token": "https://www.pushplus.plus 上你自己的 token"
+}

@@ -1,0 +1,7 @@
+# 仓库内统一 LF；shell 脚本必须是 LF，否则 Linux 上无法执行
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.png binary

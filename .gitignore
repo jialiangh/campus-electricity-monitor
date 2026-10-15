@@ -1,0 +1,15 @@
+# 凭据与运行态，绝对不要提交
+config.json
+wanxiao_state.json
+*.db
+*.log
+*.lock
+.lock
+.env
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
